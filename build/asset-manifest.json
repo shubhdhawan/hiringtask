@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/css/main.5125e6d1.chunk.css",
+    "main.js": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/js/main.e6fd4468.chunk.js",
+    "main.js.map": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/js/main.e6fd4468.chunk.js.map",
+    "runtime-main.js": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/js/runtime-main.64ff003b.js",
+    "runtime-main.js.map": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/js/runtime-main.64ff003b.js.map",
+    "static/js/2.65ba865c.chunk.js": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/js/2.65ba865c.chunk.js",
+    "static/js/2.65ba865c.chunk.js.map": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/js/2.65ba865c.chunk.js.map",
+    "index.html": "/Users/asus/Desktop/projects/Hiring%20Task/build/index.html",
+    "precache-manifest.6a5c8aed40267f98476da3038ee92bc9.js": "/Users/asus/Desktop/projects/Hiring%20Task/build/precache-manifest.6a5c8aed40267f98476da3038ee92bc9.js",
+    "service-worker.js": "/Users/asus/Desktop/projects/Hiring%20Task/build/service-worker.js",
+    "static/css/main.5125e6d1.chunk.css.map": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/css/main.5125e6d1.chunk.css.map",
+    "static/js/2.65ba865c.chunk.js.LICENSE.txt": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/js/2.65ba865c.chunk.js.LICENSE.txt",
+    "static/media/Bitmap.png": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/Bitmap.eb68ce55.png",
+    "static/media/Cart.svg": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/Cart.c2372cc7.svg",
+    "static/media/Combined Shape.svg": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/Combined Shape.5d694365.svg",
+    "static/media/Facebook.svg": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/Facebook.beacfdc1.svg",
+    "static/media/Linkedin.svg": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/Linkedin.12f8cf27.svg",
+    "static/media/Notification.svg": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/Notification.d575357d.svg",
+    "static/media/Orion_archive-box.svg": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/Orion_archive-box.4a5654c8.svg",
+    "static/media/Orion_secure-payment (1).svg": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/Orion_secure-payment (1).4a7c61ab.svg",
+    "static/media/Orion_truck.svg": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/Orion_truck.3f1e02c7.svg",
+    "static/media/Profile.svg": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/Profile.f3a10c42.svg",
+    "static/media/Reserach.svg": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/Reserach.724706a4.svg",
+    "static/media/Star.svg": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/Star.20b4003e.svg",
+    "static/media/Starnotmarked.svg": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/Starnotmarked.65715d46.svg",
+    "static/media/Twitter.svg": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/Twitter.f0e4b840.svg",
+    "static/media/book1.png": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/book1.e61f0e84.png",
+    "static/media/image1.png": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/image1.9a97c2df.png",
+    "static/media/image2.png": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/image2.e67b6f3f.png",
+    "static/media/image3.png": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/image3.12a3a8c9.png",
+    "static/media/logo_Taxmann--Tax-&-CL-of-India-for-Web_Sept18 (1).svg": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/logo_Taxmann--Tax-&-CL-of-India-for-Web_Sept18 (1).708a1249.svg",
+    "static/media/logo_Taxmann--Tax-&-CL-of-India-for-Web_Sept18.svg": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/logo_Taxmann--Tax-&-CL-of-India-for-Web_Sept18.1268a4b2.svg",
+    "static/media/vol2L.png": "/Users/asus/Desktop/projects/Hiring%20Task/build/static/media/vol2L.5c440e01.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64ff003b.js",
+    "static/js/2.65ba865c.chunk.js",
+    "static/css/main.5125e6d1.chunk.css",
+    "static/js/main.e6fd4468.chunk.js"
+  ]
+}
